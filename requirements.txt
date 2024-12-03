@@ -1,8 +1,5 @@
-cads-api-client
 cdsapi
 netCDF4
-pydeck
-streamlit
 xarray
 pandas
 numpy
