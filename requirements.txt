@@ -2,5 +2,10 @@ cdsapi
 netCDF4
 xarray
 pandas
+matplotlib
 numpy
-
+xgboost
+scikit-learn
+shap
+tensorflow 
+scikeras
