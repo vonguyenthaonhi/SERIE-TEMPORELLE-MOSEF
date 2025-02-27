@@ -43,3 +43,8 @@ This is a time series project that was realized during the Master 2 MoSEF. The g
     ```bash
     pip install -r requirements.txt
     ```
+## Auteurs
+
+- [Vo Nguyen Thao Nhi](https://github.com/vonguyenthaonhi)
+- [Tarvedian Mariam](https://github.com/Maro18287)
+- [Vazelle Lucas](https://github.com/lucasvazelle)
