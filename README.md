@@ -1,8 +1,6 @@
 # SERIE-TEMPORELLE-MOSEF
 This is a time series project that was realized during the Master 2 MoSEF. The goal is to predict the height of waves in Nazaré, Portugal during the period 2016-2017.
 
-## Authors: VO Nguyen Thao Nhi, TARVERDIAN Mariam, VAZELLE Lucas
-
 ## To download the data from Copernicus:
 - Dataset: https://cds.climate.copernicus.eu/datasets/sis-ocean-wave-timeseries?tab=overview
   + Variables: Mean wave direction, Mean wave period, Peak wave period, Significant wave height
